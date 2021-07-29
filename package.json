@@ -1,0 +1,14 @@
+{
+  "name": "main-workspace",
+  "version": "1.0.0",
+  "description": "npm 7 project",
+  "main": "index.js",
+  "workspaces":[
+    "./libs/*"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ib",
+  "license": "ISC"
+}
