@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "npm 7 project",
   "main": "index.js",
-  "workspaces":[
+  "workspaces": [
     "./libs/*"
   ],
   "scripts": {
